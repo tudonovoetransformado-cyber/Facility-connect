@@ -1,0 +1,9 @@
+{
+  "appId": "com.facilityconnect.app",
+  "appName": "Facility Connect",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {}
+}
